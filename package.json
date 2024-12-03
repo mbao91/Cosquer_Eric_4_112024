@@ -1,0 +1,18 @@
+{
+  "name": "cosquer_eric_4_112024",
+  "version": "1.0.0",
+  "description": "Améliorez l'interface d'un site mobile avec des animations CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbao91"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "Eric.C",
+  "license": "ISC"
+}
